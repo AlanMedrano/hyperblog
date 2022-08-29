@@ -2,4 +2,4 @@ Este es un archivo de prueba para cambios en GIT.
 
 Nueva linea para segundo commit
 
-hoy hablaremos de su vida.
+hoy hablaremos de su vida y obra maestra.
